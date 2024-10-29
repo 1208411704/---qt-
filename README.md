@@ -1,0 +1,2 @@
+本项目是基于Opencv和Qt来开发的视频编辑器，其中还用到了FFmpeg工具，FFmpeg主要用来音频的抽取合并和剪辑，opencv用于接口。
+开发环境基于VS和Qtcreator，语言是C++
